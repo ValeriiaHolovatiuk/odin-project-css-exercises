@@ -14,5 +14,8 @@ Issues with the cascade can be the bane of their existence for many when it come
 
 ### Self Check
 
-- Did you make sure to not edit the HTML file?
-- If you added selectors to the CSS, do they target a valid HTML element?
+- Did you make sure to not edit the HTML file? ✅
+- If you added selectors to the CSS, do they target a valid HTML element? - I didn't add any selectors. Changes made:
+ - moved style for .para class;
+ - changed styling to ID selector for button instead of class;
+ - set .text.child in order for it to be applied only if child has text
